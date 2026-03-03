@@ -1,0 +1,16 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.game</groupId>
+    <artifactId>3DGameApp</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <dependencies>
+        <!-- JMonkeyEngine Dependency -->
+        <dependency>
+            <groupId>org.jmonkeyengine</groupId>
+            <artifactId>jmonkeyengine-core</artifactId>
+            <version>3.6.0-stable</version>
+        </dependency>
+    </dependencies>
+</project>
